@@ -1,0 +1,2 @@
+Une application qui permet de savoir la temperature d'une ville donnée.
+Fait en nodeJs et l'api de OpenWeatherMap.org
